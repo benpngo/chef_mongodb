@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: 'mongodb_cpos'
+# Cookbook Name:: 'mongodb'
 # Recipe:: default
 #
 #
